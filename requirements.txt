@@ -1,5 +1,4 @@
 ansible==2.8.5
-apturl==0.5.2
 asn1crypto==0.24.0
 beautifulsoup4==4.9.3
 Brlapi==0.6.6
